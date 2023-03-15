@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "faq"]
+	path = faq
+	url = https://github.com/jienagu/faq
+	shallow = true
+	registered = true
+[submodule "flashCard"]
+	path = flashCard
+	url = https://github.com/jienagu/flashcard
+	shallow = true
+	registered = true
 [submodule "forestry"]
 	path = forestry
 	url = https://github.com/jienagu/forestry
